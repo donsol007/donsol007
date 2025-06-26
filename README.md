@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donsol007
 - 👀 I’m interested in Web Development and Software Development (Both Desktop and Mobile)
-- 🌱 I’m currently learning Flutter and React
+- 🌱 I’m proficient in the following programming language, VB.NET, C#, PYTHON, PHP, DART and REACT
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me (donsol007@gmail.com)
 
